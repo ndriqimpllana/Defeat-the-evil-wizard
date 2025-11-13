@@ -53,12 +53,12 @@ In this adventure, you choose a hero, battle an evil wizard, and use strategy to
 1. Open Terminal.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rpg-battle.git
+   git clone https://github.com/ndriqimpllana/Defeat-the-evil-wizard
    cd defeatthewizard.py
 
 
 ### **For Windows**
 1. Open Cmd.
-2. git clone https://github.com/your-username/rpg-battle.git
+2. git clone https://github.com/ndriqimpllana/Defeat-the-evil-wizard
    cd rdefeatthewizard.py
 
