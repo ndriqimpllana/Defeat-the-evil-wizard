@@ -59,6 +59,8 @@ In this adventure, you choose a hero, battle an evil wizard, and use strategy to
 
 ### **For Windows**
 1. Open Cmd.
-2. git clone https://github.com/ndriqimpllana/Defeat-the-evil-wizard
-   cd rdefeatthewizard.py
+2. Clone the repository:
+    ```bash
+    git clone https://github.com/ndriqimpllana/Defeat-the-evil-wizard
+    cd rdefeatthewizard.py
 
